@@ -1,0 +1,7 @@
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT04 - Ung dung chuyen doi tien te\BT04 Ung dung chuyen doi tien te\obj\Debug\BT04 Ung dung chuyen doi tien te.csproj.AssemblyReference.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT04 - Ung dung chuyen doi tien te\BT04 Ung dung chuyen doi tien te\obj\Debug\BT04 Ung dung chuyen doi tien te.csproj.CoreCompileInputs.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT04 - Ung dung chuyen doi tien te\BT04 Ung dung chuyen doi tien te\bin\Debug\BT04 Ung dung chuyen doi tien te.exe.config
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT04 - Ung dung chuyen doi tien te\BT04 Ung dung chuyen doi tien te\bin\Debug\BT04 Ung dung chuyen doi tien te.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT04 - Ung dung chuyen doi tien te\BT04 Ung dung chuyen doi tien te\bin\Debug\BT04 Ung dung chuyen doi tien te.pdb
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT04 - Ung dung chuyen doi tien te\BT04 Ung dung chuyen doi tien te\obj\Debug\BT04 Ung dung chuyen doi tien te.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT04 - Ung dung chuyen doi tien te\BT04 Ung dung chuyen doi tien te\obj\Debug\BT04 Ung dung chuyen doi tien te.pdb

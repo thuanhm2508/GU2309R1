@@ -1,0 +1,7 @@
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W03\BT01-W03 Thiet ke menu cho ung dung\bin\Debug\BT01-W03 Thiet ke menu cho ung dung.exe.config
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W03\BT01-W03 Thiet ke menu cho ung dung\bin\Debug\BT01-W03 Thiet ke menu cho ung dung.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W03\BT01-W03 Thiet ke menu cho ung dung\bin\Debug\BT01-W03 Thiet ke menu cho ung dung.pdb
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W03\BT01-W03 Thiet ke menu cho ung dung\obj\Debug\BT01-W03 Thiet ke menu cho ung dung.csproj.AssemblyReference.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W03\BT01-W03 Thiet ke menu cho ung dung\obj\Debug\BT01-W03 Thiet ke menu cho ung dung.csproj.CoreCompileInputs.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W03\BT01-W03 Thiet ke menu cho ung dung\obj\Debug\BT01-W03 Thiet ke menu cho ung dung.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W03\BT01-W03 Thiet ke menu cho ung dung\obj\Debug\BT01-W03 Thiet ke menu cho ung dung.pdb
