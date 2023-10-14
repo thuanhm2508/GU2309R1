@@ -1,0 +1,7 @@
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT01 - System Time\BT02-Su dung toan tu\bin\Debug\BT02-Su dung toan tu.exe.config
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT01 - System Time\BT02-Su dung toan tu\bin\Debug\BT02-Su dung toan tu.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT01 - System Time\BT02-Su dung toan tu\bin\Debug\BT02-Su dung toan tu.pdb
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT01 - System Time\BT02-Su dung toan tu\obj\Debug\BT02-Su dung toan tu.csproj.AssemblyReference.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT01 - System Time\BT02-Su dung toan tu\obj\Debug\BT02-Su dung toan tu.csproj.CoreCompileInputs.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT01 - System Time\BT02-Su dung toan tu\obj\Debug\BT02-Su dung toan tu.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT01 - System Time\BT02-Su dung toan tu\obj\Debug\BT02-Su dung toan tu.pdb
