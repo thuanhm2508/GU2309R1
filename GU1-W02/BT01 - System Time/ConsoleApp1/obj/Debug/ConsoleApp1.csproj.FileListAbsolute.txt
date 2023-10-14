@@ -1,0 +1,7 @@
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT01 - System Time\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT01 - System Time\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT01 - System Time\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT01 - System Time\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT01 - System Time\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT01 - System Time\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT01 - System Time\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
