@@ -1,0 +1,7 @@
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT03 - Hien thi loi chao\BT04 - Hien thi loi chao\bin\Debug\BT04 - Hien thi loi chao.exe.config
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT03 - Hien thi loi chao\BT04 - Hien thi loi chao\bin\Debug\BT04 - Hien thi loi chao.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT03 - Hien thi loi chao\BT04 - Hien thi loi chao\bin\Debug\BT04 - Hien thi loi chao.pdb
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT03 - Hien thi loi chao\BT04 - Hien thi loi chao\obj\Debug\BT04 - Hien thi loi chao.csproj.AssemblyReference.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT03 - Hien thi loi chao\BT04 - Hien thi loi chao\obj\Debug\BT04 - Hien thi loi chao.csproj.CoreCompileInputs.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT03 - Hien thi loi chao\BT04 - Hien thi loi chao\obj\Debug\BT04 - Hien thi loi chao.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT03 - Hien thi loi chao\BT04 - Hien thi loi chao\obj\Debug\BT04 - Hien thi loi chao.pdb
