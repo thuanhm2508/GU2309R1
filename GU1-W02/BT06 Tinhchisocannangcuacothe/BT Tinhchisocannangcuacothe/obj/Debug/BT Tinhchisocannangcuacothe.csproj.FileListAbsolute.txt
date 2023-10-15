@@ -1,0 +1,7 @@
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT06 Tinhchisocannangcuacothe\BT Tinhchisocannangcuacothe\bin\Debug\BT Tinhchisocannangcuacothe.exe.config
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT06 Tinhchisocannangcuacothe\BT Tinhchisocannangcuacothe\bin\Debug\BT Tinhchisocannangcuacothe.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT06 Tinhchisocannangcuacothe\BT Tinhchisocannangcuacothe\bin\Debug\BT Tinhchisocannangcuacothe.pdb
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT06 Tinhchisocannangcuacothe\BT Tinhchisocannangcuacothe\obj\Debug\BT Tinhchisocannangcuacothe.csproj.AssemblyReference.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT06 Tinhchisocannangcuacothe\BT Tinhchisocannangcuacothe\obj\Debug\BT Tinhchisocannangcuacothe.csproj.CoreCompileInputs.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT06 Tinhchisocannangcuacothe\BT Tinhchisocannangcuacothe\obj\Debug\BT Tinhchisocannangcuacothe.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT06 Tinhchisocannangcuacothe\BT Tinhchisocannangcuacothe\obj\Debug\BT Tinhchisocannangcuacothe.pdb

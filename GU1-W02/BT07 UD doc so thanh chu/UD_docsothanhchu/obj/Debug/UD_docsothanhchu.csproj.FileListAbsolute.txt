@@ -1,0 +1,7 @@
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT07 UD doc so thanh chu\UD_docsothanhchu\bin\Debug\UD_docsothanhchu.exe.config
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT07 UD doc so thanh chu\UD_docsothanhchu\bin\Debug\UD_docsothanhchu.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT07 UD doc so thanh chu\UD_docsothanhchu\bin\Debug\UD_docsothanhchu.pdb
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT07 UD doc so thanh chu\UD_docsothanhchu\obj\Debug\UD_docsothanhchu.csproj.AssemblyReference.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT07 UD doc so thanh chu\UD_docsothanhchu\obj\Debug\UD_docsothanhchu.csproj.CoreCompileInputs.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT07 UD doc so thanh chu\UD_docsothanhchu\obj\Debug\UD_docsothanhchu.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT07 UD doc so thanh chu\UD_docsothanhchu\obj\Debug\UD_docsothanhchu.pdb
