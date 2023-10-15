@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT04 Ung dung chuyen doi tien te", "BT04 Ung dung chuyen doi tien te.csproj", "{6CC1EE72-7580-4F0D-90B4-17D310594488}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT04-UD Chuyen Doi Tien Te", "..\BT04-UD Chuyen Doi Tien Te\BT04-UD Chuyen Doi Tien Te.csproj", "{735D2CD1-809A-4430-981D-DDC0CA3A711F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6CC1EE72-7580-4F0D-90B4-17D310594488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6CC1EE72-7580-4F0D-90B4-17D310594488}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6CC1EE72-7580-4F0D-90B4-17D310594488}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6CC1EE72-7580-4F0D-90B4-17D310594488}.Release|Any CPU.Build.0 = Release|Any CPU
+		{735D2CD1-809A-4430-981D-DDC0CA3A711F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{735D2CD1-809A-4430-981D-DDC0CA3A711F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{735D2CD1-809A-4430-981D-DDC0CA3A711F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{735D2CD1-809A-4430-981D-DDC0CA3A711F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
