@@ -1,0 +1,7 @@
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT05 - Giai phuong trinh bac nhat\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT05 - Giai phuong trinh bac nhat\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT05 - Giai phuong trinh bac nhat\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT05 - Giai phuong trinh bac nhat\ConsoleApp1\obj\Debug\giaiphuongtrinhbacnhat.csproj.AssemblyReference.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT05 - Giai phuong trinh bac nhat\ConsoleApp1\obj\Debug\giaiphuongtrinhbacnhat.csproj.CoreCompileInputs.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT05 - Giai phuong trinh bac nhat\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W02\BT05 - Giai phuong trinh bac nhat\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
