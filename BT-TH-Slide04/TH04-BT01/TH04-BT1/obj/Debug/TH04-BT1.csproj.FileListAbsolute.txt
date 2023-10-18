@@ -1,0 +1,7 @@
+E:\Project Code\Visual Studio Project\GU2309R1\BT-TH-Slide04\TH04-BT01\TH04-BT1\bin\Debug\TH04-BT1.exe.config
+E:\Project Code\Visual Studio Project\GU2309R1\BT-TH-Slide04\TH04-BT01\TH04-BT1\bin\Debug\TH04-BT1.exe
+E:\Project Code\Visual Studio Project\GU2309R1\BT-TH-Slide04\TH04-BT01\TH04-BT1\bin\Debug\TH04-BT1.pdb
+E:\Project Code\Visual Studio Project\GU2309R1\BT-TH-Slide04\TH04-BT01\TH04-BT1\obj\Debug\TH04-BT1.csproj.AssemblyReference.cache
+E:\Project Code\Visual Studio Project\GU2309R1\BT-TH-Slide04\TH04-BT01\TH04-BT1\obj\Debug\TH04-BT1.csproj.CoreCompileInputs.cache
+E:\Project Code\Visual Studio Project\GU2309R1\BT-TH-Slide04\TH04-BT01\TH04-BT1\obj\Debug\TH04-BT1.exe
+E:\Project Code\Visual Studio Project\GU2309R1\BT-TH-Slide04\TH04-BT01\TH04-BT1\obj\Debug\TH04-BT1.pdb
