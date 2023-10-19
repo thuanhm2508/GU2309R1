@@ -1,0 +1,7 @@
+E:\Project Code\Visual Studio Project\GU2309R1\TH07-BT\TH07-BT\obj\Debug\TH07-BT.csproj.AssemblyReference.cache
+E:\Project Code\Visual Studio Project\GU2309R1\TH07-BT\TH07-BT\obj\Debug\TH07-BT.csproj.CoreCompileInputs.cache
+E:\Project Code\Visual Studio Project\GU2309R1\TH07-BT\TH07-BT\bin\Debug\TH07-BT.exe.config
+E:\Project Code\Visual Studio Project\GU2309R1\TH07-BT\TH07-BT\bin\Debug\TH07-BT.exe
+E:\Project Code\Visual Studio Project\GU2309R1\TH07-BT\TH07-BT\bin\Debug\TH07-BT.pdb
+E:\Project Code\Visual Studio Project\GU2309R1\TH07-BT\TH07-BT\obj\Debug\TH07-BT.exe
+E:\Project Code\Visual Studio Project\GU2309R1\TH07-BT\TH07-BT\obj\Debug\TH07-BT.pdb
