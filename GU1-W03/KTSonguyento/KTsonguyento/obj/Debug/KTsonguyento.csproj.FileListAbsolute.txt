@@ -1,0 +1,7 @@
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W03\KTSonguyento\KTsonguyento\bin\Debug\KTsonguyento.exe.config
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W03\KTSonguyento\KTsonguyento\bin\Debug\KTsonguyento.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W03\KTSonguyento\KTsonguyento\bin\Debug\KTsonguyento.pdb
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W03\KTSonguyento\KTsonguyento\obj\Debug\KTsonguyento.csproj.AssemblyReference.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W03\KTSonguyento\KTsonguyento\obj\Debug\KTsonguyento.csproj.CoreCompileInputs.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W03\KTSonguyento\KTsonguyento\obj\Debug\KTsonguyento.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W03\KTSonguyento\KTsonguyento\obj\Debug\KTsonguyento.pdb
