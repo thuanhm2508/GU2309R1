@@ -136,8 +136,8 @@ namespace TH07_BT
             if (ulong.TryParse(Console.ReadLine(), out n) && n >= 0)
             {
                 ulong k = 1;
-                
-                for ( ulong i = 1; i <= n; i++)
+
+                for (ulong i = 1; i <= n; i++)
                 {
                     k = k * i;
                 }
@@ -172,80 +172,18 @@ namespace TH07_BT
         }
         private static void TH07()
         {
-            int n2 = 2;
             Console.InputEncoding = Encoding.Unicode;
             Console.OutputEncoding = Encoding.Unicode;
-            Console.WriteLine("Bảng cứu chương 2");
-            for (int i = 1; i <= 10; i++)
+            Console.WriteLine("Bảng cứu chương từ 2 tới 10");
+            Console.WriteLine();
+            for (int i = 2; i <= 10; i++)
             {
-                int k = n2 * i;
-                Console.WriteLine("{0} x {1} = {2}", n2, i, k);
+                for (int j = 1; j <= 10; j++)
+                {
+                    Console.WriteLine($"{i} x {j} = {i * j}");
+                }
+                Console.WriteLine();
             }
-            Console.WriteLine(" ");
-            Console.WriteLine("Bảng cứu chương 3");
-            int n3 = 3;
-            for (int i = 1; i <= 10; i++)
-            {
-                int k = n3 * i;
-                Console.WriteLine("{0} x {1} = {2}", n3, i, k);
-            }
-            Console.WriteLine(" ");
-            Console.WriteLine("Bảng cứu chương 4");
-            int n4 = 4;
-            for (int i = 1; i <= 10; i++)
-            {
-                int k = n4 * i;
-                Console.WriteLine("{0} x {1} = {2}", n4, i, k);
-            }
-            Console.WriteLine(" ");
-            Console.WriteLine("Bảng cứu chương 5");
-            int n5 = 5;
-            for (int i = 1; i <= 10; i++)
-            {
-                int k = n5 * i;
-                Console.WriteLine("{0} x {1} = {2}", n5, i, k);
-            }
-            Console.WriteLine(" ");
-            Console.WriteLine("Bảng cứu chương 6");
-            int n6 = 6;
-            for (int i = 1; i <= 10; i++)
-            {
-                int k = n6 * i;
-                Console.WriteLine("{0} x {1} = {2}", n6, i, k);
-            }
-            Console.WriteLine(" ");
-            Console.WriteLine("Bảng cứu chương 7");
-            int n7 = 7;
-            for (int i = 1; i <= 10; i++)
-            {
-                int k = n7 * i;
-                Console.WriteLine("{0} x {1} = {2}", n7, i, k);
-            }
-            Console.WriteLine(" ");
-            Console.WriteLine("Bảng cứu chương 8");
-            int n8 = 8;
-            for (int i = 1; i <= 10; i++)
-            {
-                int k = n8 * i;
-                Console.WriteLine("{0} x {1} = {2}", n8, i, k);
-            }
-            Console.WriteLine(" ");
-            Console.WriteLine("Bảng cứu chương 9");
-            int n9 = 9;
-            for (int i = 1; i <= 10; i++)
-            {
-                int k = n9 * i;
-                Console.WriteLine("{0} x {1} = {2}", n9, i, k);
-            }
-            Console.WriteLine(" ");
-            Console.WriteLine("Bảng cứu chương 10");
-            int n10 = 10;
-            for (int i = 1; i <= 10; i++)
-            {
-                int k = n10 * i;
-                Console.WriteLine("{0} x {1} = {2}", n10, i, k);
-            }
-
         }
         private static void TH08()
         {
@@ -338,12 +276,12 @@ namespace TH07_BT
                 while (m >= 10)
                 {
                     m = m % 10;
-                    
+
                 }
                 tongn = tongn + n + m;
                 if (tongn == k) { Console.WriteLine("Yes"); }
                 else Console.WriteLine("No");
-                
+
             }
             else
             {
@@ -351,7 +289,6 @@ namespace TH07_BT
             }
 
         }
-
     }
 }
 
