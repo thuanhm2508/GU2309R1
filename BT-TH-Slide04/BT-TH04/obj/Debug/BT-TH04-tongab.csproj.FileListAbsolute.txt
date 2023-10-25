@@ -1,7 +1,0 @@
-E:\Project Code\Visual Studio Project\GU2309R1\BT-TH-Slide04\BT-TH04\bin\Debug\BT-TH04.exe.config
-E:\Project Code\Visual Studio Project\GU2309R1\BT-TH-Slide04\BT-TH04\bin\Debug\BT-TH04.exe
-E:\Project Code\Visual Studio Project\GU2309R1\BT-TH-Slide04\BT-TH04\bin\Debug\BT-TH04.pdb
-E:\Project Code\Visual Studio Project\GU2309R1\BT-TH-Slide04\BT-TH04\obj\Debug\BT-TH04-tongab.csproj.AssemblyReference.cache
-E:\Project Code\Visual Studio Project\GU2309R1\BT-TH-Slide04\BT-TH04\obj\Debug\BT-TH04-tongab.csproj.CoreCompileInputs.cache
-E:\Project Code\Visual Studio Project\GU2309R1\BT-TH-Slide04\BT-TH04\obj\Debug\BT-TH04.exe
-E:\Project Code\Visual Studio Project\GU2309R1\BT-TH-Slide04\BT-TH04\obj\Debug\BT-TH04.pdb
