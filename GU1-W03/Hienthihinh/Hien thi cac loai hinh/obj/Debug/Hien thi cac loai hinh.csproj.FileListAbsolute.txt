@@ -1,0 +1,7 @@
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W03\Hienthihinh\Hien thi cac loai hinh\bin\Debug\Hien thi cac loai hinh.exe.config
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W03\Hienthihinh\Hien thi cac loai hinh\bin\Debug\Hien thi cac loai hinh.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W03\Hienthihinh\Hien thi cac loai hinh\bin\Debug\Hien thi cac loai hinh.pdb
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W03\Hienthihinh\Hien thi cac loai hinh\obj\Debug\Hien thi cac loai hinh.csproj.AssemblyReference.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W03\Hienthihinh\Hien thi cac loai hinh\obj\Debug\Hien thi cac loai hinh.csproj.CoreCompileInputs.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W03\Hienthihinh\Hien thi cac loai hinh\obj\Debug\Hien thi cac loai hinh.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W03\Hienthihinh\Hien thi cac loai hinh\obj\Debug\Hien thi cac loai hinh.pdb

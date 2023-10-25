@@ -1,0 +1,7 @@
+E:\Project Code\Visual Studio Project\GU2309R1\CSG-W04\GW04-MangtrongC#\bin\Debug\GW04-MangtrongC#.exe.config
+E:\Project Code\Visual Studio Project\GU2309R1\CSG-W04\GW04-MangtrongC#\bin\Debug\GW04-MangtrongC#.exe
+E:\Project Code\Visual Studio Project\GU2309R1\CSG-W04\GW04-MangtrongC#\bin\Debug\GW04-MangtrongC#.pdb
+E:\Project Code\Visual Studio Project\GU2309R1\CSG-W04\GW04-MangtrongC#\obj\Debug\GW04-MangtrongC#.csproj.AssemblyReference.cache
+E:\Project Code\Visual Studio Project\GU2309R1\CSG-W04\GW04-MangtrongC#\obj\Debug\GW04-MangtrongC#.csproj.CoreCompileInputs.cache
+E:\Project Code\Visual Studio Project\GU2309R1\CSG-W04\GW04-MangtrongC#\obj\Debug\GW04-MangtrongC#.exe
+E:\Project Code\Visual Studio Project\GU2309R1\CSG-W04\GW04-MangtrongC#\obj\Debug\GW04-MangtrongC#.pdb

@@ -136,7 +136,8 @@ namespace TH07_BT
             if (ulong.TryParse(Console.ReadLine(), out n) && n >= 0)
             {
                 ulong k = 1;
-                for (ulong i = 1; i <= n; i++)
+                
+                for ( ulong i = 1; i <= n; i++)
                 {
                     k = k * i;
                 }
