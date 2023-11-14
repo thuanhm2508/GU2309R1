@@ -1,0 +1,7 @@
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W04\BT\FindMax\FindMaxAr\bin\Debug\FindMaxAr.exe.config
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W04\BT\FindMax\FindMaxAr\bin\Debug\FindMaxAr.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W04\BT\FindMax\FindMaxAr\bin\Debug\FindMaxAr.pdb
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W04\BT\FindMax\FindMaxAr\obj\Debug\FindMaxAr.csproj.AssemblyReference.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W04\BT\FindMax\FindMaxAr\obj\Debug\FindMaxAr.csproj.CoreCompileInputs.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W04\BT\FindMax\FindMaxAr\obj\Debug\FindMaxAr.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W04\BT\FindMax\FindMaxAr\obj\Debug\FindMaxAr.pdb
