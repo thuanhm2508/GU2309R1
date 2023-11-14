@@ -1,0 +1,7 @@
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\Class\Lythuyet\bin\Debug\Lythuyet.exe.config
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\Class\Lythuyet\bin\Debug\Lythuyet.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\Class\Lythuyet\bin\Debug\Lythuyet.pdb
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\Class\Lythuyet\obj\Debug\Lythuyet.csproj.AssemblyReference.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\Class\Lythuyet\obj\Debug\Lythuyet.csproj.CoreCompileInputs.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\Class\Lythuyet\obj\Debug\Lythuyet.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\Class\Lythuyet\obj\Debug\Lythuyet.pdb

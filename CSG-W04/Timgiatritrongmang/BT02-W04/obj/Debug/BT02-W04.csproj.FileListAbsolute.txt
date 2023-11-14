@@ -1,0 +1,7 @@
+E:\Project Code\Visual Studio Project\GU2309R1\CSG-W04\Timgiatritrongmang\BT02-W04\bin\Debug\BT02-W04.exe.config
+E:\Project Code\Visual Studio Project\GU2309R1\CSG-W04\Timgiatritrongmang\BT02-W04\bin\Debug\BT02-W04.exe
+E:\Project Code\Visual Studio Project\GU2309R1\CSG-W04\Timgiatritrongmang\BT02-W04\bin\Debug\BT02-W04.pdb
+E:\Project Code\Visual Studio Project\GU2309R1\CSG-W04\Timgiatritrongmang\BT02-W04\obj\Debug\BT02-W04.csproj.AssemblyReference.cache
+E:\Project Code\Visual Studio Project\GU2309R1\CSG-W04\Timgiatritrongmang\BT02-W04\obj\Debug\BT02-W04.csproj.CoreCompileInputs.cache
+E:\Project Code\Visual Studio Project\GU2309R1\CSG-W04\Timgiatritrongmang\BT02-W04\obj\Debug\BT02-W04.exe
+E:\Project Code\Visual Studio Project\GU2309R1\CSG-W04\Timgiatritrongmang\BT02-W04\obj\Debug\BT02-W04.pdb
