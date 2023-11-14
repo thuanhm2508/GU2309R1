@@ -12,8 +12,7 @@ namespace BT02_W04
     {
         static void Main(string[] args)
         {
-            //C1();
-            C2();
+            C1();
         }
         private static void C1()
         {
@@ -38,14 +37,6 @@ namespace BT02_W04
             }
 
         }
-        private static void C2()
-        {
-            ArrayList student = new ArrayList()
-            {"Christian", "Michael", "Camila", "Sienna", "Tanya", "Connor", "Zachariah", "Mallory", "Zoe", "Emily"};
-            Console.WriteLine("Enter a name’s student:");
-            string input_name = Console.ReadLine();
-            Console.WriteLine("Position of the students in the list " );
-
-        }
+        
     }
 }
