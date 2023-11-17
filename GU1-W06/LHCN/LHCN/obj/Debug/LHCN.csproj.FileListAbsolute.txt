@@ -1,0 +1,7 @@
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\LHCN\LHCN\bin\Debug\LHCN.exe.config
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\LHCN\LHCN\bin\Debug\LHCN.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\LHCN\LHCN\bin\Debug\LHCN.pdb
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\LHCN\LHCN\obj\Debug\LHCN.csproj.AssemblyReference.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\LHCN\LHCN\obj\Debug\LHCN.csproj.CoreCompileInputs.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\LHCN\LHCN\obj\Debug\LHCN.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\LHCN\LHCN\obj\Debug\LHCN.pdb
