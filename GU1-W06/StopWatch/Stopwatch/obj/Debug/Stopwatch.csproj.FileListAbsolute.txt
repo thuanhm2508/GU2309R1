@@ -1,0 +1,7 @@
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\StopWatch\Stopwatch\bin\Debug\Stopwatch.exe.config
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\StopWatch\Stopwatch\bin\Debug\Stopwatch.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\StopWatch\Stopwatch\bin\Debug\Stopwatch.pdb
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\StopWatch\Stopwatch\obj\Debug\Stopwatch.csproj.AssemblyReference.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\StopWatch\Stopwatch\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\StopWatch\Stopwatch\obj\Debug\Stopwatch.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\StopWatch\Stopwatch\obj\Debug\Stopwatch.pdb
