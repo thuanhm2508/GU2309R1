@@ -1,0 +1,7 @@
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W07\Tic\Tictactoe\bin\Debug\Tictactoe.exe.config
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W07\Tic\Tictactoe\bin\Debug\Tictactoe.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W07\Tic\Tictactoe\bin\Debug\Tictactoe.pdb
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W07\Tic\Tictactoe\obj\Debug\Tictactoe.csproj.AssemblyReference.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W07\Tic\Tictactoe\obj\Debug\Tictactoe.csproj.CoreCompileInputs.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W07\Tic\Tictactoe\obj\Debug\Tictactoe.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W07\Tic\Tictactoe\obj\Debug\Tictactoe.pdb

@@ -1,0 +1,7 @@
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\ClassAnimal\ClassAnimal\obj\Debug\ClassAnimal.csproj.AssemblyReference.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\ClassAnimal\ClassAnimal\obj\Debug\ClassAnimal.csproj.CoreCompileInputs.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\ClassAnimal\ClassAnimal\bin\Debug\ClassAnimal.exe.config
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\ClassAnimal\ClassAnimal\bin\Debug\ClassAnimal.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\ClassAnimal\ClassAnimal\bin\Debug\ClassAnimal.pdb
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\ClassAnimal\ClassAnimal\obj\Debug\ClassAnimal.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\ClassAnimal\ClassAnimal\obj\Debug\ClassAnimal.pdb
