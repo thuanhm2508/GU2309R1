@@ -1,0 +1,7 @@
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\StaticMethod\StaticMethod\bin\Debug\StaticMethod.exe.config
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\StaticMethod\StaticMethod\bin\Debug\StaticMethod.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\StaticMethod\StaticMethod\bin\Debug\StaticMethod.pdb
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\StaticMethod\StaticMethod\obj\Debug\StaticMethod.csproj.AssemblyReference.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\StaticMethod\StaticMethod\obj\Debug\StaticMethod.csproj.CoreCompileInputs.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\StaticMethod\StaticMethod\obj\Debug\StaticMethod.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\StaticMethod\StaticMethod\obj\Debug\StaticMethod.pdb
