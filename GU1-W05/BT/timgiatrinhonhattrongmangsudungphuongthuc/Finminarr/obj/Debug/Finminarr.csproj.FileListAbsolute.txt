@@ -1,0 +1,7 @@
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\BT\timgiatrinhonhattrongmangsudungphuongthuc\Finminarr\bin\Debug\Finminarr.exe.config
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\BT\timgiatrinhonhattrongmangsudungphuongthuc\Finminarr\bin\Debug\Finminarr.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\BT\timgiatrinhonhattrongmangsudungphuongthuc\Finminarr\bin\Debug\Finminarr.pdb
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\BT\timgiatrinhonhattrongmangsudungphuongthuc\Finminarr\obj\Debug\Finminarr.csproj.AssemblyReference.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\BT\timgiatrinhonhattrongmangsudungphuongthuc\Finminarr\obj\Debug\Finminarr.csproj.CoreCompileInputs.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\BT\timgiatrinhonhattrongmangsudungphuongthuc\Finminarr\obj\Debug\Finminarr.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\BT\timgiatrinhonhattrongmangsudungphuongthuc\Finminarr\obj\Debug\Finminarr.pdb
