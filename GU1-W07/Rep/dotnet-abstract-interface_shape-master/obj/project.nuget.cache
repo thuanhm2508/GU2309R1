@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lfk/8Y7H76y0fCaVwyqUWxM8DaEkPW/wkbmpCY1cGcvhCNC85SJCncMJ+dVVyarNjSmF/Y2xWw2uqOVlhXCMKw==",
+  "success": true,
+  "projectFilePath": "E:\\Project Code\\Visual Studio Project\\GU2309R1\\GU1-W07\\Rep\\dotnet-abstract-interface_shape-master\\Shape.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rimuru\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Rimuru\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Rimuru\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Rimuru\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
