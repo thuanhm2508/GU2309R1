@@ -1,0 +1,7 @@
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\BT\Vietptxoaptkhoimang\VietPTxoaPTkhoiMang\bin\Debug\VietPTxoaPTkhoiMang.exe.config
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\BT\Vietptxoaptkhoimang\VietPTxoaPTkhoiMang\bin\Debug\VietPTxoaPTkhoiMang.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\BT\Vietptxoaptkhoimang\VietPTxoaPTkhoiMang\bin\Debug\VietPTxoaPTkhoiMang.pdb
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\BT\Vietptxoaptkhoimang\VietPTxoaPTkhoiMang\obj\Debug\VietPTxoaPTkhoiMang.csproj.AssemblyReference.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\BT\Vietptxoaptkhoimang\VietPTxoaPTkhoiMang\obj\Debug\VietPTxoaPTkhoiMang.csproj.CoreCompileInputs.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\BT\Vietptxoaptkhoimang\VietPTxoaPTkhoiMang\obj\Debug\VietPTxoaPTkhoiMang.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\BT\Vietptxoaptkhoimang\VietPTxoaPTkhoiMang\obj\Debug\VietPTxoaPTkhoiMang.pdb
