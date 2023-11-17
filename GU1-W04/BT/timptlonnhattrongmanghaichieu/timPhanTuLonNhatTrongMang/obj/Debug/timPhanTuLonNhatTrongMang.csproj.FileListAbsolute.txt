@@ -1,0 +1,7 @@
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W04\BT\timptlonnhattrongmanghaichieu\timPhanTuLonNhatTrongMang\bin\Debug\timPhanTuLonNhatTrongMang.exe.config
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W04\BT\timptlonnhattrongmanghaichieu\timPhanTuLonNhatTrongMang\bin\Debug\timPhanTuLonNhatTrongMang.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W04\BT\timptlonnhattrongmanghaichieu\timPhanTuLonNhatTrongMang\bin\Debug\timPhanTuLonNhatTrongMang.pdb
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W04\BT\timptlonnhattrongmanghaichieu\timPhanTuLonNhatTrongMang\obj\Debug\timPhanTuLonNhatTrongMang.csproj.AssemblyReference.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W04\BT\timptlonnhattrongmanghaichieu\timPhanTuLonNhatTrongMang\obj\Debug\timPhanTuLonNhatTrongMang.csproj.CoreCompileInputs.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W04\BT\timptlonnhattrongmanghaichieu\timPhanTuLonNhatTrongMang\obj\Debug\timPhanTuLonNhatTrongMang.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W04\BT\timptlonnhattrongmanghaichieu\timPhanTuLonNhatTrongMang\obj\Debug\timPhanTuLonNhatTrongMang.pdb
