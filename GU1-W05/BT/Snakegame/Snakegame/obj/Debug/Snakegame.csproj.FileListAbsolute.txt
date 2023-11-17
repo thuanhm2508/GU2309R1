@@ -1,0 +1,7 @@
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\BT\Snakegame\Snakegame\bin\Debug\Snakegame.exe.config
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\BT\Snakegame\Snakegame\bin\Debug\Snakegame.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\BT\Snakegame\Snakegame\bin\Debug\Snakegame.pdb
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\BT\Snakegame\Snakegame\obj\Debug\Snakegame.csproj.AssemblyReference.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\BT\Snakegame\Snakegame\obj\Debug\Snakegame.csproj.CoreCompileInputs.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\BT\Snakegame\Snakegame\obj\Debug\Snakegame.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\BT\Snakegame\Snakegame\obj\Debug\Snakegame.pdb
