@@ -1,0 +1,7 @@
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\BT\vietptdemsolanxuathiencuakytutrongchuoi\Vietptdem\bin\Debug\Vietptdem.exe.config
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\BT\vietptdemsolanxuathiencuakytutrongchuoi\Vietptdem\bin\Debug\Vietptdem.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\BT\vietptdemsolanxuathiencuakytutrongchuoi\Vietptdem\bin\Debug\Vietptdem.pdb
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\BT\vietptdemsolanxuathiencuakytutrongchuoi\Vietptdem\obj\Debug\Vietptdem.csproj.AssemblyReference.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\BT\vietptdemsolanxuathiencuakytutrongchuoi\Vietptdem\obj\Debug\Vietptdem.csproj.CoreCompileInputs.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\BT\vietptdemsolanxuathiencuakytutrongchuoi\Vietptdem\obj\Debug\Vietptdem.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W05\BT\vietptdemsolanxuathiencuakytutrongchuoi\Vietptdem\obj\Debug\Vietptdem.pdb
