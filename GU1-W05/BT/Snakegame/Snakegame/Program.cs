@@ -26,7 +26,7 @@ namespace Snakegame
         void ShowBanner()
         {
             Console.SetWindowSize(width, height + panel);
-            Console.ForegroundColor = ConsoleColor.Green;
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
             Console.CursorVisible = false;      //ẩn con trỏ
 
             Console.WriteLine("============================================");
@@ -153,7 +153,7 @@ namespace Snakegame
                 randomQua();
             }
 
-            //xac dinh chieu dang di chuyen con ran 
+            //Xác định di chuyển của con rắn
             if (((dir == "LEFT" && pre_dir != "UP") && (dir == "LEFT" && pre_dir != "DOWN")) || (
                 (dir == "RIGHT" && pre_dir != "UP") && (dir == "RIGHT" && pre_dir != "DOWN")))
                 horizontal = true;
@@ -199,7 +199,7 @@ namespace Snakegame
                     else if (j == headX && i == headY)
                     { //Dau con ran
                         Console.ForegroundColor = ConsoleColor.Red;
-                        Console.Write("0");
+                        Console.Write("☻");
                         Console.ForegroundColor = ConsoleColor.Green;
 
                     }
@@ -210,7 +210,7 @@ namespace Snakegame
                         {
                             if (TailX[k] == j && TailY[k] == i)
                             {
-                                Console.Write("o");     //Than con ran
+                                Console.Write("☺");     //Than con ran
                                 isprinted = true;
                             }
                         }
