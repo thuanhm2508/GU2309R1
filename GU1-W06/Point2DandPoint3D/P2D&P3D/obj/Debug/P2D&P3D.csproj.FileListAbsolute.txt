@@ -1,0 +1,7 @@
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\Point2DandPoint3D\P2D&P3D\bin\Debug\P2D&P3D.exe.config
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\Point2DandPoint3D\P2D&P3D\bin\Debug\P2D&P3D.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\Point2DandPoint3D\P2D&P3D\bin\Debug\P2D&P3D.pdb
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\Point2DandPoint3D\P2D&P3D\obj\Debug\P2D&P3D.csproj.AssemblyReference.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\Point2DandPoint3D\P2D&P3D\obj\Debug\P2D&P3D.csproj.CoreCompileInputs.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\Point2DandPoint3D\P2D&P3D\obj\Debug\P2D&P3D.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W06\Point2DandPoint3D\P2D&P3D\obj\Debug\P2D&P3D.pdb
