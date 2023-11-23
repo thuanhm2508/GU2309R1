@@ -9,7 +9,7 @@ namespace TicTacToe
 {
     //Xác định giá trị từng ô cờ [null,X,O]
     public enum FIELD { FLD_EMPTY = ' ', FLD_X = 'X', FLD_O = 'O' }
-    class Cell
+    public class Cell
     {
         //Khởi tạo mặc định ô cờ là null
         FIELD fieldState = FIELD.FLD_EMPTY;
