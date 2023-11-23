@@ -1,0 +1,7 @@
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W07\IComparable\IComparable\bin\Debug\IComparable.exe.config
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W07\IComparable\IComparable\bin\Debug\IComparable.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W07\IComparable\IComparable\bin\Debug\IComparable.pdb
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W07\IComparable\IComparable\obj\Debug\IComparable.csproj.AssemblyReference.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W07\IComparable\IComparable\obj\Debug\IComparable.csproj.CoreCompileInputs.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W07\IComparable\IComparable\obj\Debug\IComparable.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W07\IComparable\IComparable\obj\Debug\IComparable.pdb
