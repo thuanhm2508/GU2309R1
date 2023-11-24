@@ -1,0 +1,7 @@
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W08\IndexOutOfRangeException\SuminfileText\bin\Debug\SuminfileText.exe.config
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W08\IndexOutOfRangeException\SuminfileText\bin\Debug\SuminfileText.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W08\IndexOutOfRangeException\SuminfileText\bin\Debug\SuminfileText.pdb
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W08\IndexOutOfRangeException\SuminfileText\obj\Debug\SuminfileText.csproj.AssemblyReference.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W08\IndexOutOfRangeException\SuminfileText\obj\Debug\SuminfileText.csproj.CoreCompileInputs.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W08\IndexOutOfRangeException\SuminfileText\obj\Debug\SuminfileText.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W08\IndexOutOfRangeException\SuminfileText\obj\Debug\SuminfileText.pdb
