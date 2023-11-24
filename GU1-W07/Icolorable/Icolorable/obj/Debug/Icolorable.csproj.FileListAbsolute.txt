@@ -1,0 +1,7 @@
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W07\Icolorable\Icolorable\bin\Debug\Icolorable.exe.config
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W07\Icolorable\Icolorable\bin\Debug\Icolorable.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W07\Icolorable\Icolorable\bin\Debug\Icolorable.pdb
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W07\Icolorable\Icolorable\obj\Debug\Icolorable.csproj.AssemblyReference.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W07\Icolorable\Icolorable\obj\Debug\Icolorable.csproj.CoreCompileInputs.cache
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W07\Icolorable\Icolorable\obj\Debug\Icolorable.exe
+E:\Project Code\Visual Studio Project\GU2309R1\GU1-W07\Icolorable\Icolorable\obj\Debug\Icolorable.pdb
