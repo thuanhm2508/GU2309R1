@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.ExceptionServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -10,45 +11,47 @@ namespace TicTacToe
     {
         static void Main(string[] args)
         {
-            string dir;
-            const int width = 70;
-            const int height = 10;
-            const int panel = 10;
-            int input = -1;
-            Console.SetWindowSize(width, height + panel);
-            Console.ForegroundColor = ConsoleColor.DarkYellow;               // Chỉnh màu chữ
+            TicTacToe game = new TicTacToe();
+            int input;
+        put:
+            Console.ForegroundColor = ConsoleColor.DarkBlue;               // Chỉnh màu chữ
             Console.CursorVisible = false;                              // Ẩn con trỏ
             Console.WriteLine("============================================");
             Console.WriteLine("=================TIC TAC TOE================");
             Console.WriteLine("============================================");
             Console.WriteLine();
-            Console.WriteLine("Pres any key to play");
-            Console.WriteLine("Tips: - Use Arrow button to move the snake");
-            Console.WriteLine("      - Press key 1 to Player vs Player   ");
-            Console.WriteLine("      - Press key 2 to Player vs Bot      ");
-            Console.WriteLine("      - Press key 3 to Bot vs Bot         ");
-            Console.WriteLine("      - Press key 4 to Quit game          ");
-            Console.WriteLine("");
-            Console.Write("Choose your opt: ");
-            if (int.TryParse(Console.ReadLine(), out input) && input >= 1 && input <= 5)
+            Console.WriteLine("Tips: - Use 1 - 9 number to play game     ");
+            Console.WriteLine("      - Press key 1 to Play vs Bot        ");
+            Console.WriteLine("      - Press key 2 to Bot vs Bot         ");
+            Console.WriteLine("      - Press key 3 to Play vs Play       ");
+            Console.WriteLine("      - Press key 4 to quit game          ");
+            Console.WriteLine(" ");
+
+            if (int.TryParse(Console.ReadLine(), out input))
             {
-                
                 if (input == 1)
                 {
-                    TicTacToe game = new TicTacToe();
+                    game.play2();
+                }
+                if (input == 2)
+                {
+                    game.play3();
+                }
+                if (input == 3)
+                {
                     game.play();
                 }
-
-
-
+                if (input == 4)
+                {
+                    Environment.Exit(0);
+                }
             }
             else
             {
-                Console.WriteLine(" ");
-                Console.WriteLine("Error");
+                Console.WriteLine("Input Invalid. Please try again: ");
+                goto put;
             }
-
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }
